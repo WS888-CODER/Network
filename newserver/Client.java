@@ -9,7 +9,7 @@ import java.net.Socket;
 import javax.swing.JFrame;
 
 public class Client  { 
-    private static final String Server_IP="10.9.207.114";
+    private static final String Server_IP="192.168.100.127";
     private static final int Server_port=5050;
     public String Name ;
     
